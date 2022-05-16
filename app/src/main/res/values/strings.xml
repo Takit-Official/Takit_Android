@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Takit</string>
+    <string name="app_key">f870696118117290eee5d93c2b4b375a</string>
+    <string name="kakao_app_key">kakaof870696118117290eee5d93c2b4b375a</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
